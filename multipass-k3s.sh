@@ -9,7 +9,7 @@ IMAGE="focal"
 SERVER_COUNT_MACHINE="0"
 # How many agent instances to create
 AGENT_COUNT_MACHINE="1"
-# How many CPUs to allocate to each machine
+# How many CPUs to allocate to each machine s
 SERVER_CPU_MACHINE="2"
 AGENT_CPU_MACHINE="1"
 # How much disk space to allocate to each machine
