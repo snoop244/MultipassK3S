@@ -31,7 +31,7 @@ This will (defaults):
 
 ```
 sudo snap install multipass
-wget https://raw.githubusercontent.com/superseb/multipass-k3s/master/multipass-k3s.sh
+wget https://raw.githubusercontent.com/snoop244/multipass-k3s/master/multipass-k3s.sh
 bash multipass-k3s.sh
 curl -Lo /usr/local/bin/kubectl https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
 chmod +x /usr/local/bin/kubectl
